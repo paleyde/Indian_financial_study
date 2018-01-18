@@ -1,0 +1,1755 @@
+,comp_code,comp_name
+0,6,ACC
+1,9,Aegis Logistics
+2,17,Amrutanjan Healt
+3,19,Andhra Cements
+4,20,Internat. Paper
+5,23,Apollo Tyres
+6,29,Arvind Ltd
+7,31,Ashok Leyland
+8,33,Asian Hotels (N)
+9,34,Asian Paints
+10,35,Assam CO. (I)
+11,37,SKF India
+12,39,Astrazeneca Phar
+13,42,Atlas Cycles
+14,43,Atul
+15,50,Bajaj Holdings
+16,51,Bajaj Electrical
+17,55,Balkrishna Inds
+18,56,Ballarpur Inds.
+19,57,Bannari Amm.Sug.
+20,59,BASF India
+21,60,Bata India
+22,62,Bayer Crop Sci.
+23,64,Berger Paints
+24,68,Bharat Bijlee
+25,69,Bharat Forge
+26,70,Bharat Gears
+27,72,Sintex Inds.
+28,77,Birla Corpn.
+29,78,Birla Power Sol.
+30,79,Bliss GVS Pharma
+31,81,Blue Blends (I)
+32,82,Blue Star
+33,84,Bombay Burmah
+34,85,Bombay Dyeing
+35,88,Reliance Infra.
+36,90,Abbott India
+37,93,Britannia Inds.
+38,99,CESC
+39,102,Graphite India
+40,103,Carborundum Uni.
+41,104,CEAT
+42,105,ITD Cem
+43,106,Century Enka
+44,107,Century Textiles
+45,111,Exide Inds.
+46,114,Cipla
+47,116,Clutch Auto
+48,117,DIC India
+49,118,Colgate-Palm.
+50,119,Clariant Chemica
+51,121,Tata Coffee
+52,123,Coromandel Inter
+53,124,Cosmo Films
+54,125,Crompton Greaves
+55,128,DCM
+56,131,Dalmia Bharat
+57,134,Deccan Cements
+58,135,Deepak Fert.
+59,136,Deepak Nitrite
+60,141,DCW
+61,148,EID Parry
+62,149,Merck
+63,150,EIH
+64,151,Eicher Motors
+65,152,Elecon Engg.Co
+66,154,Electrost.Cast.
+67,155,Elgi Equipment
+68,159,GE T&D India
+69,160,Hinduja Foundrie
+70,161,Escorts
+71,164,Essel Propack
+72,165,Everest Inds.
+73,166,Excel Inds.
+74,171,Finolex Cables
+75,172,First Leasing Co
+76,175,Nestle India
+77,180,GKW
+78,183,Delta Magnets
+79,184,Gabriel India
+80,186,Gammon India
+81,190,Garware-Wall Rop
+82,195,Glaxosmit Pharma
+83,196,Goa Carbon
+84,197,Federal-Mogul Go
+85,200,Kansai Nerolac
+86,204,Saregama India
+87,207,GE Shipping Co
+88,208,Greaves Cotton
+89,209,Grindwell Norton
+90,210,Golden Tobacco
+91,213,G N F C
+92,214,Setco Automotive
+93,217,Guj Alkalies
+94,218,Ambuja Cem.
+95,226,G S F C
+96,227,Grasim Inds
+97,230,H D F C
+98,231,GlaxoSmith C H L
+99,233,Harri. Malayalam
+100,237,Hero Motocorp
+101,242,A B B
+102,245,Hind.Construct.
+103,246,Hind.Dorr-Oliver
+104,247,Hind.Motors
+105,249,Bajaj Hindusthan
+106,250,HSIL
+107,251,HEG
+108,252,Hindalco Inds.
+109,253,Hind.Composites
+110,255,Hind. Unilever
+111,256,Sanofi India
+112,257,Hotel Leela Ven.
+113,259,Hil Ltd
+114,262,Zensar Tech.
+115,265,GOCL Corpn.
+116,266,Akzo Nobel
+117,270,India Cements
+118,278,Indian CardCloth
+119,281,IFB Inds.
+120,282,Indian Hotels
+121,283,Indian Hume Pipe
+122,284,Linde India
+123,285,Aditya Bir. Nuv.
+124,288,Gillette India
+125,292,Castrol India
+126,295,Ingersoll-Rand
+127,298,Tata Inv.Corpn.
+128,300,Tata Sponge Iron
+129,301,ITC
+130,302,IVP
+131,303,J B Chem & Pharm
+132,304,JK Tyre & Indust
+133,311,Jay Shree Tea
+134,312,Jenson & Nich.
+135,316,K C P
+136,322,Kalyani Steels
+137,328,Whirlpool India
+138,329,Kesoram Inds.
+139,330,Khaitan Elect.
+140,336,Kirl. Brothers
+141,337,Cummins India
+142,341,Kothari Sugars
+143,342,KSB Pumps
+144,345,Trent
+145,346,Lak. Mach. Works
+146,347,Lak. Prec. Screw
+147,348,Larsen & Toubro
+148,351,LML
+149,355,Manugraph India
+150,357,The Ramco Cement
+151,363,Mah. Scooters
+152,365,M & M
+153,367,Mangalam Cement
+154,368,Mangalore Chem.
+155,372,Max Financial
+156,378,Bosch
+157,384,Modern Insulator
+158,387,Modi Rubber
+159,390,Peninsula Land
+160,391,MRF
+161,392,Mukand
+162,396,Heidelberg Cem.
+163,401,NCL Inds.
+164,410,NELCO
+165,412,Piramal Enterp.
+166,415,NOCIL
+167,419,Orient Abrasives
+168,420,Orient Paper
+169,421,Oriental Hotels
+170,422,OCL India
+171,425,Oswal Agro Mills
+172,434,Pfizer
+173,435,Phillips Carbon
+174,444,Prakash Inds.
+175,445,Surya Roshni
+176,446,Fag Bearings
+177,447,Premier
+178,450,Pressman Adv.
+179,453,Pudumjee Pulp
+180,457,Punjab Chemicals
+181,465,Rallis India
+182,470,Rane Holdings
+183,474,Raymond
+184,476,Reliance Inds.
+185,478,Revathi Equipmnt
+186,480,P & G Hygiene
+187,484,Rollatainers
+188,502,Vedanta
+189,503,Seshasayee Paper
+190,505,Shalimar Paints
+191,508,Shree Cement
+192,513,SRF
+193,514,Siemens
+194,515,Sirpur Paper
+195,516,Siyaram Silk
+196,519,Somany Ceramics
+197,525,S P I C
+198,526,TVS Srichakra
+199,529,Standard Inds.
+200,533,Steel Tubes (I)
+201,535,JK Lakshmi Cem.
+202,536,Kitply Inds.
+203,537,Sundaram Brake
+204,538,Sundaram Clayton
+205,539,Sundram Fasten.
+206,540,Sundaram Finance
+207,541,Supreme Inds.
+208,544,SML ISUZU
+209,549,Talbros Auto.
+210,552,Tata Chemicals
+211,554,Tata Power Co.
+212,555,Infomedia Press
+213,556,TRF
+214,557,Tata Global
+215,560,Tata Motors
+216,562,Texmaco Infrast.
+217,563,Thirumalai Chem.
+218,564,Thomas Cook (I)
+219,565,Tinplate Co.
+220,566,Tata Steel
+221,569,TIL
+222,573,Tube Investments
+223,577,Unichem Labs.
+224,578,Eveready Inds.
+225,580,U B Holdings
+226,587,Universal Cables
+227,592,Jubilant Life
+228,597,Voltas
+229,598,VST Inds.
+230,600,UB Engg.
+231,601,W S Inds.
+232,602,Walchan. Inds.
+233,606,Wendt India
+234,607,West Coast Paper
+235,609,Wheels India
+236,611,Willard India
+237,614,Wipro
+238,618,XPRO India
+239,620,Zenith Birla
+240,621,Zuari Global
+241,622,Automotive Axles
+242,623,Malwa Cotton Spg
+243,632,Alembic
+244,633,Alkyl Amines
+245,636,Apollo Hospitals
+246,641,Oswal Green Tech
+247,644,Cimmco
+248,651,Dynamatic Tech.
+249,655,Global Offshore
+250,657,Godfrey Phillips
+251,667,Indo National
+252,670,Nalwa Sons Invst
+253,672,JBF Inds.
+254,677,Lyka Labs
+255,683,Modern Denim
+256,688,NRC
+257,690,NESCO
+258,694,Oudh Sugar Mills
+259,695,Marathon Nextgen
+260,700,RSWM Ltd
+261,702,Rico Auto Inds
+262,704,Ruchi Soya Inds.
+263,720,V I P Inds.
+264,722,Vindhya Telelink
+265,732,Balmer Lawrie
+266,737,Dhunseri Petro.
+267,743,Kanoria Chem.
+268,745,Williamson Magor
+269,751,McNally Bharat
+270,755,Oriental Carbon
+271,765,Upper Gang. Sug.
+272,770,Peria Kara. Tea
+273,771,Sakthi Sugars
+274,780,TTK Healthcare
+275,782,Lumax Inds.
+276,798,Varun Ship. Co.
+277,799,Ador Welding
+278,805,Oricon Enter.
+279,807,Mangalam Timber
+280,808,Sudarshan Chem.
+281,809,Windsor Machines
+282,810,Uniphos Enter.
+283,815,Dr Reddy's Labs
+284,820,Uttam Value Ste.
+285,825,BSL
+286,830,Rajas. Petro Syn
+287,831,Regency Ceramics
+288,840,IFB Agro Inds.
+289,842,Himatsing. Seide
+290,848,T N Petro Prod.
+291,866,INEOS Styrolut.
+292,897,Gandhi Spl. Tube
+293,922,Kesar Enterprise
+294,927,Twilight Litaka
+295,932,Vardhman Textile
+296,941,Munjal Showa
+297,942,Nahar Spinning
+298,955,Rain Industries
+299,965,Jindal Saw
+300,968,Shanthi Gears
+301,974,STI India
+302,976,Winsome Diamonds
+303,979,Tainwala Chem.
+304,983,Vardhman Hold.
+305,986,Unitech
+306,991,Banco Products
+307,992,Natl. Steel&Agro
+308,998,Zandu Realty
+309,1000,Sagar Cements
+310,1016,Titan Company
+311,1019,HCL Infosystems
+312,1022,Garden Silk Mill
+313,1024,Asahi India Glas
+314,1026,GHCL
+315,1028,Honda Siel Power
+316,1035,Nicco Corpn.
+317,1052,Visaka Inds.
+318,1054,Sona Koyo Steer.
+319,1056,Polyplex Corpn
+320,1057,Uttam Galva
+321,1058,Ester Inds.
+322,1062,JCT Electronics
+323,1065,Sunflag Iron
+324,1066,Murudesh Ceramic
+325,1071,Kirloskar Indus.
+326,1074,Guj. Sidhee Cem.
+327,1075,Munjal Auto Inds
+328,1076,Usha Martin
+329,1079,AGC Networks
+330,1082,Classic Diamonds
+331,1083,Samtel Color
+332,1093,Aban Offshore
+333,1095,EIH Assoc.Hotels
+334,1097,Kokuyo Camlin
+335,1102,The Hi-Tech Gear
+336,1105,India Glycols
+337,1106,Huhtamaki PPL
+338,1119,Pennar Inds.
+339,1121,Subros
+340,1127,Jain Irrigation
+341,1128,Guj Fluorochem
+342,1129,Kajaria Ceramics
+343,1131,Honeywell Auto
+344,1140,Sarda Energy
+345,1147,Esab India
+346,1149,Jamna Auto Inds.
+347,1150,Jay Bharat Mar.
+348,1165,Monsanto India
+349,1167,Value Industries
+350,1180,Shrenuj & Co.
+351,1186,Nahar Indl. Ent.
+352,1189,H F C L
+353,1190,Oil Country
+354,1196,Jyoti Structures
+355,1208,Eurotex Inds.
+356,1210,Modern Terry Tow
+357,1214,Bhansali Engg.
+358,1215,Pearl Polymers
+359,1216,Chemfab Alkalis
+360,1220,Indo Rama Synth.
+361,1223,Can Fin Homes
+362,1224,Vinyl Chemicals
+363,1225,Dharani Sugars
+364,1227,Kabra Extrusion
+365,1250,Venky's (India)
+366,1252,Finolex Inds.
+367,1254,Albert David
+368,1255,Amtek Auto
+369,1258,Shiva Texyarn
+370,1259,Ansal Housing
+371,1287,Hind Syntex
+372,1291,Jindal Drilling
+373,1305,Lloyds Finance
+374,1310,Modern Syntex
+375,1313,Moser Baer (I)
+376,1318,Omax Autos
+377,1320,Patel Engg.
+378,1321,Polar Inds.
+379,1322,PTL Enterprises
+380,1338,Steel Str. Wheel
+381,1344,Swaraj Engines
+382,1358,Weizmann
+383,1369,Man Inds.
+384,1375,St Bk of India
+385,1389,Autolite (I)
+386,1393,ORG Informatics
+387,1394,Shreyans Inds.
+388,1419,ICDS
+389,1436,Rajshree Sugars
+390,1437,Ruby Mills
+391,1467,Advani Hotels.
+392,1470,Hind Rectifiers
+393,1474,Uflex
+394,1514,Ucal Fuel Sys.
+395,1520,Spice Mobility
+396,1524,Vadilal Inds.
+397,1538,Anant Raj
+398,1559,Harita Seating
+399,1572,Jai Corp
+400,1590,Geodesic
+401,1610,Sical Logistics
+402,1623,Sujana Univ. Ind
+403,1627,Navneet Educat.
+404,1693,Good Value Mktg
+405,1706,Superhouse Ltd
+406,1710,IL&FS Inv.Manag.
+407,1725,Hind.Oil Explor.
+408,1729,PAE
+409,1736,Suman Motels
+410,1741,Century Extrus.
+411,1742,Godrej Inds.
+412,1745,Shriram Trans.
+413,1765,T T
+414,1774,Dhanuka Agritech
+415,1781,Kirl. Electric
+416,1783,Super Forgings
+417,1792,Manali Petrochem
+418,1809,Asian Electronic
+419,1813,GRP
+420,1814,Dewan Hsg. Fin.
+421,1840,AVT Natural Prod
+422,1846,Ginni Filaments
+423,1861,Kakatiya Cement
+424,1866,Reliance Capital
+425,1878,Thiru Aroor. Su.
+426,1889,Salzer Electron.
+427,1896,Sterling Biotech
+428,1903,Precot Meridian
+429,1905,Super Spinning
+430,1907,India Nipp.Elec.
+431,1908,Pricol
+432,1909,Rolta India
+433,1926,Ramco Inds.
+434,1927,L G Balakrishnan
+435,1938,Motor & Gen Fin
+436,1941,United Nilgiri
+437,1945,India Motor Part
+438,1952,Suryalak. Cott.
+439,1957,Ruchi Infrastr.
+440,1960,Indo Count Inds.
+441,1967,Guj. Lease Fin.
+442,1971,Spanco Ltd
+443,1973,IOL Chemicals
+444,1975,Hercules Hoists
+445,1988,DE Nora India
+446,2004,Arshiya
+447,2006,AYM Syntex
+448,2035,Apar Inds.
+449,2036,Orient Bell
+450,2039,Donear Inds.
+451,2053,Nova Electro
+452,2060,Maha Rashtra Apx
+453,2061,Nilkamal Ltd
+454,2074,Nahar Poly
+455,2075,TECIL Chemical
+456,2086,Sequent Scien.
+457,2096,3M India
+458,2100,Johnson Con. Hit
+459,2105,HB Stockholdings
+460,2110,Amara Raja Batt.
+461,2113,JM Financial
+462,2117,Swan Energy
+463,2129,T N Telecom.
+464,2141,EMCO
+465,2146,Agro Tech Foods.
+466,2153,Radico Khaitan
+467,2163,Cholaman.Inv.&Fn
+468,2165,Star Paper Mills
+469,2168,S & S Power Swit
+470,2171,Jagsonpal Pharma
+471,2174,NEPC India
+472,2191,Mah. Seamless
+473,2195,Rel. Indl. Infra
+474,2198,Maral Overseas
+475,2202,I G Petrochems
+476,2208,Balrampur Chini
+477,2216,High Ground
+478,2226,Timken India
+479,2227,Welspun India
+480,2247,Vinati Organics
+481,2259,Andhra Sugars
+482,2278,Ganesha Ecosphe.
+483,2285,Gufic BioScience
+484,2290,B P C L
+485,2292,MMTC
+486,2293,M T N L
+487,2294,BEML Ltd
+488,2295,Tata Comm
+489,2297,R C F
+490,2298,Bharat Electron
+491,2299,S A I L
+492,2300,S T C
+493,2301,F A C T
+494,2302,Hind.Organ.Chem.
+495,2303,NLC India
+496,2304,Natl. Aluminium
+497,2305,H P C L
+498,2306,B H E L
+499,2307,Hind.Zinc
+500,2322,Tata Elxsi
+501,2323,HMT
+502,2329,Bhagyanagar Ind
+503,2330,Kotak Mah. Bank
+504,2334,ITI
+505,2335,Dredging Corpn.
+506,2337,DCM Shriram
+507,2338,Mawana Sugars
+508,2339,C P C L
+509,2347,S C I
+510,2356,Metalyst Forg.
+511,2362,Autoriders Fin.
+512,2370,Rainbow Papers
+513,2371,Genesys Intl.
+514,2378,Aarti Inds.
+515,2381,IFGL Refractor
+516,2385,Binani Inds
+517,2386,Ausom Enter.
+518,2393,Wanbury
+519,2395,Grand Foundry
+520,2396,Suryajyoti Spg.
+521,2400,Prec. Wires (I)
+522,2401,HBL Power System
+523,2404,Ajmera Realty
+524,2410,Arcotech Ltd
+525,2412,Khaitan (India)
+526,2415,Gillanders Arbut
+527,2416,ADF Foods
+528,2437,NEPC Agro Foods
+529,2439,GTL
+530,2447,Easun Reyrolle
+531,2461,UPL
+532,2467,Future Enterp.
+533,2469,Guj. Ambuja Exp
+534,2496,M R P L
+535,2521,Madhav Marbles
+536,2531,VST Till. Tract.
+537,2547,Kingfa Science
+538,2555,Parrys Sugar
+539,2576,Naga Dhunseri
+540,2598,NCC
+541,2603,Nakoda
+542,2626,Dhampur Sugar
+543,2631,KDDL Ltd
+544,2638,Plastiblends (I)
+545,2642,GRUH Finance
+546,2650,P I Inds.
+547,2671,Indl. Inv. Trust
+548,2685,Morepen Labs.
+549,2705,Sumeet Inds.
+550,2706,Apcotex Industri
+551,2712,Phoenix Lamps
+552,2717,Kopran
+553,2718,Guj Inds. Power
+554,2720,Lak. Vilas Bank
+555,2722,Karur Vysya Bank
+556,2732,Mastek
+557,2747,Eimco Elecon(I)
+558,2765,Vijay Shan. Bui.
+559,2769,Ashiana Housing
+560,2771,NIIT
+561,2773,Ramgopal Polytex
+562,2777,Bharat Rasayan
+563,2779,Cons. Finvest
+564,2780,Himadri Specialt
+565,2787,SREI Infra. Fin.
+566,2794,ESI
+567,2796,GTN Industries
+568,2805,MIRC Electronics
+569,2806,Infosys
+570,2817,Pil Italica
+571,2820,Ansal Properties
+572,2825,Information Tech
+573,2831,Sangam India
+574,2838,Mazda
+575,2846,Tide Water Oil
+576,2848,VLS Finance
+577,2852,Viceroy Hotels
+578,2879,Indo Biotech
+579,2893,Guj. Raffia Inds
+580,2896,Menon Bearings
+581,2897,Simplex Infra
+582,2900,Vardhman Polytex
+583,2912,CMI
+584,2915,Jayant Agro Org.
+585,2955,D S Kulkarni Dev
+586,2966,Motherson Sumi
+587,2970,Trident
+588,2975,Aarti Drugs
+589,2986,Tata Metaliks
+590,2987,Modern Malleable
+591,2990,Banswara Syntex
+592,2996,Soma Textiles
+593,2997,Shah Alloys
+594,3007,Salora Intl.
+595,3010,Kemrock Inds.
+596,3019,TCI Finance
+597,3021,Cubex Tubings
+598,3026,Lupin
+599,3029,Chambal Fert.
+600,3041,Monnet Ispat
+601,3046,Namaste Exports
+602,3049,Shri Lakshmi
+603,3058,Ashima
+604,3088,Sujana Metal Prd
+605,3099,Sathavaha. Ispat
+606,3100,Aarvee Denims
+607,3111,Ashapura Minech.
+608,3118,Alok Inds.
+609,3124,Ratnamani Metals
+610,3126,Zee Entertainmen
+611,3129,Atcom Technolog
+612,3135,Orchid Pharma
+613,3139,JVL Agro Indus
+614,3140,Bodal Chemicals
+615,3148,IFCI
+616,3169,Bhushan Steel
+617,3173,Sanwaria Agro
+618,3175,Amit Spinning
+619,3179,Birla Cable
+620,3187,S Kumars Nation
+621,3188,Pion. Embroider.
+622,3196,Vesuvius India
+623,3210,Mindteck (India)
+624,3219,Pidilite Inds.
+625,3225,Diamond Power
+626,3226,K S Oils
+627,3231,Vimta Labs
+628,3240,G M Breweries
+629,3243,Spentex Inds.
+630,3250,Hitech Plast
+631,3264,Filatex India
+632,3265,CRISIL
+633,3266,Videocon Inds.
+634,3270,Agro Dutch Inds.
+635,3272,Havells India
+636,3282,Mold-Tek Technol
+637,3284,Biofil Chemicals
+638,3285,Marksans Pharma
+639,3304,Mercator
+640,3313,SVOGL Oil
+641,3315,Prem. Explosives
+642,3317,Foseco India
+643,3319,Control Print
+644,3325,Patspin India
+645,3335,KND Engg.Techno.
+646,3348,SPML Infra
+647,3349,Orient Press
+648,3356,Rana Sugars
+649,3361,MphasiS
+650,3382,Emtex Inds(I)
+651,3388,Tilaknagar Inds.
+652,3392,Dabur India
+653,3420,Crest Ventures
+654,3446,Ganesh Housing
+655,3450,Igarashi Motors
+656,3453,Nagreeka Exports
+657,3458,Praj Inds.
+658,3464,Kalyani Forge
+659,3465,Symphony
+660,3469,Zenith Exports
+661,3487,Murli Industries
+662,3497,Pitti Lamination
+663,3505,Winsome Yarns
+664,3526,Patel Integrated
+665,3528,ATN Intl.
+666,3537,Kohinoor Foods
+667,3538,Premier Polyfilm
+668,3546,Vakrangee
+669,3559,Alphageo (India)
+670,3598,SPL Inds.
+671,3608,Supreme Petroch.
+672,3609,Mahamaya Steel
+673,3613,Guj Apollo Inds
+674,3616,Torrent Pharma.
+675,3617,Ipca Labs.
+676,3624,Automotive Stamp
+677,3630,Kilitch Drugs
+678,3673,Shyam Telecom
+679,3697,Krebs Biochem
+680,3704,Anik Industries
+681,3708,Indbank Merchant
+682,3709,Federal Bank
+683,3715,Mavi Industries
+684,3720,BPL
+685,3722,Bajaj Fin.
+686,3750,Valecha Eng.
+687,3780,Nava Bharat Vent
+688,3782,Vimal Oil Foods
+689,3800,Neuland Labs.
+690,3809,Arrow Greentech
+691,3812,Dynachem Pharma
+692,3825,M M Forgings
+693,3826,Poddar Pigments
+694,3828,Girdhari.Sugar
+695,3840,Safire Global Me
+696,3852,Avanti Feeds
+697,3885,Srikalahas. Pip.
+698,3888,R S Software (I)
+699,3896,Guj NRE Coke
+700,3897,Surana Inds.
+701,3898,Hind.Copper
+702,3899,Butterfly Gan Ap
+703,3924,Sanghi Inds.
+704,3929,Inox Air Product
+705,3930,Zodiac Cloth. Co
+706,3954,Mayur Uniquote
+707,3977,Vishnu Chemicals
+708,3985,Country Club Hos
+709,3993,Pearl Engg. Poly
+710,3996,Zodiac-JRD MKJ
+711,4018,Pan India Corpor
+712,4019,Fedders Lloyd
+713,4031,Gangotri Textile
+714,4042,Prime Securities
+715,4050,Techindia Nirman
+716,4093,Hinduja Ventures
+717,4101,Umang Dairies
+718,4123,Ind-Swift
+719,4138,Keynote Corp.
+720,4141,Pudumjee Industr
+721,4144,N K Inds.
+722,4149,Savita Oil Tech
+723,4150,TPL Plastech
+724,4154,Liberty Shoes
+725,4157,Times Guaranty
+726,4159,Tokyo Plast Intl
+727,4162,Jindal Poly Film
+728,4164,Hester Bios
+729,4169,Electrotherm(I)
+730,4177,Blue Dart Exp.
+731,4196,Krishna Engg.
+732,4230,NEPC Textiles
+733,4231,Kalindee Rail
+734,4244,Adani Enterp.
+735,4248,LIC Housing Fin.
+736,4257,Som Distilleries
+737,4259,Norben Tea
+738,4261,Dolphin Offshore
+739,4269,Mirza Internatio
+740,4275,Parenteral Drugs
+741,4301,TTK Prestige
+742,4317,Tour. Fin. Corp.
+743,4318,Oriental Bank
+744,4320,Websol Energy
+745,4325,Sun Pharma.Inds.
+746,4335,Lloyd Electric
+747,4338,JMT Auto
+748,4353,JMC Projects
+749,4354,Kamat Hotels
+750,4368,DSJ Communicatn
+751,4374,Shree Rama News.
+752,4378,DCM Financial
+753,4387,Hotel Rugby
+754,4389,Hybrid Financial
+755,4395,Rajdarshan Inds
+756,4401,Hikal
+757,4406,JIK Inds.
+758,4416,Surana Telecom
+759,4418,Bhartiya Intl.
+760,4439,Heritage Foods
+761,4441,Shreyas Shipping
+762,4446,Damodar Indust.
+763,4452,Pruden. Sugar
+764,4464,Caplin Point Lab
+765,4469,Onward Technolog
+766,4472,Astra Microwave
+767,4476,Sambhaav Media
+768,4488,Centum Electron
+769,4496,Nivyah Infra.
+770,4498,Antarctica
+771,4502,Alchemist
+772,4506,Jayaswal Neco
+773,4518,Kalpataru Power
+774,4524,Orbit Exports
+775,4537,Sandesh
+776,4545,Goldiam Intl.
+777,4552,PVP Ventures
+778,4580,GIC Housing Fin
+779,4584,Trigyn Techno.
+780,4593,Ashco Niulab Ind
+781,4620,IMP Powers
+782,4621,Kitex Garments
+783,4640,Hind.Natl.Glass
+784,4662,Vipul Ltd
+785,4664,Paras Petrofils
+786,4666,Aurobindo Pharma
+787,4674,Crest Animation
+788,4675,Eastern Sugar
+789,4679,KEI Inds.
+790,4684,Natco Pharma
+791,4699,Panama Petrochem
+792,4701,Greenply Inds.
+793,4702,PSL
+794,4704,Bal Pharma
+795,4719,Aro Granite Inds
+796,4724,Muthoot Cap.Serv
+797,4727,Prism Cement
+798,4734,Banaras Beads
+799,4756,63 Moons Tech.
+800,4760,SEAMEC Ltd
+801,4761,Sarla Performanc
+802,4764,JSW Steel
+803,4767,Thermax
+804,4770,21st Cent. Mgmt.
+805,4791,Venus Remedies
+806,4819,Rai S R Mohota
+807,4820,Sanghvi Movers
+808,4822,Selan Expl. Tech
+809,4846,Adi Finechem
+810,4879,Chromatic India
+811,4895,Themis Medicare
+812,4907,CCL Products
+813,4916,Suven Life Scie.
+814,4926,Era Infra Engg.
+815,4936,Kothari Products
+816,4939,La Opala RG
+817,4962,Genus Power
+818,4974,Kellton Tech
+819,4987,HDFC Bank
+820,4992,NRB Bearings
+821,4993,DB Intl.Stock
+822,4994,Petron Engg
+823,5014,Ugar Sugar Works
+824,5020,Goodluck Steel
+825,5023,Magma Fincorp
+826,5031,Shilpa Medicare
+827,5056,Relaxo Footwear
+828,5068,Noesis Industrie
+829,5076,GEI Industrial
+830,5110,Sterling Tools
+831,5114,Natl. Wind Power
+832,5120,ANG Inds
+833,5128,Raj Rayon Inds.
+834,5129,Aftek
+835,5135,Alps Inds.
+836,5155,Paramount Comm.
+837,5178,Nila Infrastruct
+838,5184,Netvista Inform
+839,5185,Cupid
+840,5200,Lakshmi Energy
+841,5247,Bhageria Indust.
+842,5266,Remsons Inds.
+843,5288,Balaji Amines
+844,5312,GSL Nova Petro.
+845,5324,Kwality
+846,5369,Om Metals Infrap
+847,5374,ECE Inds.
+848,5375,Sil Business
+849,5400,TCS
+850,5418,ICICI Bank
+851,5433,IDBI Bank
+852,5445,Corporation Bank
+853,5452,Oil India
+854,5455,Power Grid Corpn
+855,5456,Bank of Baroda
+856,5471,Canara Bank
+857,5475,UCO Bank
+858,5481,United Bank (I)
+859,5492,Cox & Kings
+860,5493,Union Bank (I)
+861,5496,Maruti Suzuki
+862,5498,Shriram Pistons
+863,5516,Shri Matre
+864,5521,S B T
+865,5523,Dhanlaxmi Bank
+866,5531,IndusInd Bank
+867,5533,Dena Bank
+868,5539,Central Bank
+869,5553,Alankit
+870,5554,Axis Bank
+871,5571,Sphere Global
+872,5586,Jet Airways
+873,5600,Surana Corp.
+874,5607,Bank of Maha
+875,5611,Elder Pharma
+876,5638,Syndicate Bank
+877,5654,Bank of India
+878,5656,HCL Technologies
+879,5675,Allahabad Bank
+880,5704,Madras Fert.
+881,5745,Rossell India
+882,5772,JK Paper
+883,5807,Indian Metals
+884,5814,Pun. & Sind Bank
+885,5834,Pilani Invest.
+886,5859,Andhra Bank
+887,5860,Karnataka Bank
+888,5895,Cranes Software
+889,5926,ICSA (India)
+890,5947,St Bk of Mysore
+891,5951,Alicon Cast.
+892,5954,IVRCL
+893,5955,I O B
+894,5961,St Bk of Bikaner
+895,5982,RBL Bank
+896,5991,KRBL
+897,6025,Vijaya Bank
+898,6045,Suprajit Engg.
+899,6061,Indian Bank
+900,6064,Geojit BNP
+901,6068,O N G C
+902,6070,Arman Financial
+903,6083,Manappuram Fin.
+904,6103,Beardsell
+905,6113,Sri Adhik. Bros.
+906,6127,Vikas Ecotech
+907,6159,Nucleus Soft.
+908,6263,South Ind.Bank
+909,6279,Country Condo
+910,6285,Lak. Fin. & Indl
+911,6367,Zydus Wellness
+912,6418,Phoenix Mills
+913,6423,Emami
+914,6454,The Byke Hospi.
+915,6463,Gemini Comm.
+916,6481,Jullundur Motor
+917,6485,NBI Indl. Fin.
+918,6548,Shri.City Union.
+919,6570,Almondz Global
+920,6580,Shakti Pumps
+921,6589,Signet Indus.
+922,6599,Jocil
+923,6600,Lambodhara Text.
+924,6614,Wellwin Inds.
+925,6649,Swelect Energy
+926,6661,AI Champ.Inds.
+927,6674,Vital Comm.
+928,6730,Mohit Inds.
+929,6733,Karuturi Global
+930,6838,Sunteck Realty
+931,6856,Maars Soft.Intl.
+932,6867,Bilpower
+933,6890,DLF
+934,6902,Jindal Worldwide
+935,6975,Viji Finance
+936,6986,Sundaram Multi.
+937,7015,City Union Bank
+938,7045,Kanani Inds.
+939,7065,Sharda Motor
+940,7091,Spectacle Ventur
+941,7102,Responsive Ind
+942,7129,SE Investments
+943,7133,Panoramic Univ.
+944,7255,Khandwala Sec.
+945,7310,Ahluwalia Contr.
+946,7311,J & K Bank
+947,7383,Prajay Engg.
+948,7387,Pioneer Distil.
+949,7400,Agarwal Indl.
+950,7436,Cybertech Sys.
+951,7469,CORE Education
+952,7484,LCC Infotech
+953,7550,Lila Worldwide
+954,7594,BSEL Infra.
+955,7620,REI Agro
+956,7629,KSS
+957,7816,Mukand Engineers
+958,7817,Ambica Agarbat.
+959,7820,KCP Sugar &Inds.
+960,7855,Punjab Natl.Bank
+961,7902,Parekh Aluminex
+962,7927,Ind-Swift Labs.
+963,7947,Welspun Corp
+964,7971,Supreme Impex
+965,8008,Sh. Rama Multi.
+966,8014,Compucom Soft.
+967,8019,Zenith Infotech
+968,8020,KDL Biotech
+969,8021,Wockhardt
+970,8022,Tips Industries
+971,8029,TVS Motor Co.
+972,8032,Usha Mart. Edu.
+973,8034,Megasoft
+974,8036,United Spirits
+975,8037,BF Utilities
+976,8039,Aptech
+977,8040,Aurionpro Sol.
+978,12001,NTPC
+979,12002,I O C L
+980,12019,Coal India
+981,12029,Engineers India
+982,12059,NMDC
+983,12061,Natl.Fertilizer
+984,12068,Power Fin.Corpn.
+985,12076,SJVN
+986,12111,Hexaware Tech.
+987,12122,T N Newsprint
+988,12208,Madhucon Proj.
+989,12220,Punj Lloyd
+990,12232,Guj Pipavav Port
+991,12295,Minda Inds.
+992,12317,Duncans Inds.
+993,12334,APL Apollo
+994,12350,GAIL (India)
+995,12371,Zicom Electron.
+996,12382,Linc Pen &Plast.
+997,12420,Panacea Biotec
+998,12476,Aries Agro
+999,12490,Sonata Software
+1000,12521,Page Industries
+1001,12546,KIOCL
+1002,12579,Indoco Remedies
+1003,12580,STG Lifecare
+1004,12584,NHPC Ltd
+1005,12585,Marico
+1006,12586,Redington India
+1007,12605,KLG Systel
+1008,12607,Container Corpn.
+1009,12608,SIL Investments
+1010,12611,Ramco Systems
+1011,12626,Empee Distill.
+1012,12632,Granules India
+1013,12637,Kothari Petroche
+1014,12639,Coral India Fin.
+1015,12648,Arvind Remedies
+1016,12653,Reliance Power
+1017,12669,GeeCee Vent.
+1018,12683,Lincoln Pharma.
+1019,12715,SKIL Infrastr
+1020,12727,Capri Global
+1021,12828,Jain Studios
+1022,12902,Jaihind Projects
+1023,12952,Aspinwall & Co
+1024,12966,Gokaldas Exports
+1025,12977,Indrapr.Medical
+1026,12986,Blu.Coast Hotel.
+1027,13023,Hatsun AgroProd.
+1028,13035,ICRA
+1029,13051,Rajesh Exports
+1030,13067,Geometric
+1031,13090,Credit Analysis
+1032,13105,Oracle Fin.Serv.
+1033,13166,NBCC
+1034,13191,Computech Intl.
+1035,13212,Prestige Estates
+1036,13214,Cerebra Integr.
+1037,13240,India Power Corp
+1038,13267,Morarjee Text.
+1039,13320,Lokesh Mach.
+1040,13362,Pokarna
+1041,13369,Mahanagar Gas
+1042,13410,Arih.Found.Hsg.
+1043,13415,Kamper Concast
+1044,13425,Cyber Media Ind
+1045,13504,Ajanta Pharma
+1046,13561,Archies
+1047,13649,Blue Chip India
+1048,13660,Cyient
+1049,13673,Goldstone Tech.
+1050,13683,Nitco
+1051,13706,Growth Techno
+1052,13786,Technofab Engg.
+1053,13819,Manaksia
+1054,13863,MOIL
+1055,13868,G M D C
+1056,13872,Suzlon Energy
+1057,13967,Blue Bird (I)
+1058,13973,Poly Medicure
+1059,14001,TVS Elec.
+1060,14138,Suprem.Tex Mart
+1061,14155,Subex
+1062,14181,California Soft.
+1063,14185,Ortel Commu.
+1064,14192,Eon Elect.
+1065,14222,Gati
+1066,14266,JP Power Ven.
+1067,14270,Rupa & Co
+1068,14275,Quintegra Soln.
+1069,14343,Adit.Birla Money
+1070,14369,Creative Eye
+1071,14390,Rasoya Proteins
+1072,14482,FDC
+1073,14548,Jubilant Food.
+1074,14551,Cinevista
+1075,14602,DCB Bank
+1076,14608,Silicon Valley
+1077,14610,Todays Writing
+1078,14618,Ankur Drugs
+1079,14622,PVR
+1080,14680,MRO-TEK Realty
+1081,14691,Stampede Cap.
+1082,14709,Vidhi Dyestuffs
+1083,14738,Globus Corp.
+1084,14741,Maithan Alloys
+1085,14744,Gateway Distr.
+1086,14761,Eider Infotech
+1087,14775,Jyothy Lab.
+1088,14787,Aravali Inds.
+1089,14801,Biocon
+1090,14804,Tricom India
+1091,14817,Atul Auto
+1092,14852,ABG Shipyard
+1093,14871,BGR Energy Sys.
+1094,14927,Accelya Kale
+1095,14965,PNB Gilts
+1096,14978,Minda Corp
+1097,15007,Prit Nandy Comm.
+1098,15046,Aksh Optifibre
+1099,15108,Summit Sec.
+1100,15196,Nelcast
+1101,15228,Sun TV Network
+1102,15293,JP Associates
+1103,15342,Helios Matheson
+1104,15469,Smartlink Netwr.
+1105,15542,Bharti Airtel
+1106,15613,Godrej Propert.
+1107,15631,Castex Tech
+1108,15639,Energy Devl.Co.
+1109,15674,NDTV
+1110,15783,Century Ply.
+1111,15798,Salona Cotspin
+1112,15825,Dwarikesh Sugar
+1113,15871,Lovable Lingerie
+1114,15876,Visagar Polytex
+1115,15934,Repro India
+1116,16012,Tulip Telecom
+1117,16020,Ambika Cotton
+1118,16077,Cura Tech.
+1119,16093,Satin Creditcare
+1120,16305,Kernex Microsys.
+1121,16437,Vaibhav Global
+1122,16474,PNB Housing
+1123,16500,Gayatri Projects
+1124,16541,KPIT Tech.
+1125,16667,BLB
+1126,16795,M & M Fin. Serv.
+1127,16819,IZMO
+1128,16825,Kamdhenu
+1129,16996,Strides Shasun
+1130,17099,XL Energy
+1131,17125,Raj Television
+1132,17136,J K Cements
+1133,17208,STEL Holdings
+1134,17211,Delta Corp
+1135,17215,Tech Mahindra
+1136,17376,Hindustan Media
+1137,17399,SKM Egg Prod.
+1138,17416,Polaris Consulta
+1139,17472,Ortin Labs.
+1140,17515,Noida Tollbridg.
+1141,17576,Excel Crop Care
+1142,17600,Orient Cement
+1143,17714,Landmark Prop.
+1144,17761,Micro Techno.
+1145,17808,Adani Power
+1146,18014,IL&FS Engg.
+1147,18075,Rural Elec.Corp.
+1148,18105,L & T Infotech
+1149,18203,Kavveri Telecom
+1150,18268,Mahindra Holiday
+1151,18286,Persistent Sys
+1152,18410,Allied Digital
+1153,18488,Torrent Power
+1154,18695,Shirpur Gold
+1155,18844,Info Edg.(India)
+1156,18868,MPS
+1157,18922,Lypsa Gems
+1158,19299,Alkem Lab
+1159,19320,Vardhman Acrylic
+1160,19534,Melstar Info.
+1161,19611,V-Guard Inds.
+1162,19638,T B Z
+1163,19816,Advance. Enzyme.
+1164,19825,Indo Tech.Trans.
+1165,19939,Titagarh Wagons
+1166,19961,Shoppers St.
+1167,20045,R Systems Intl.
+1168,20058,Triven.Engg.Ind.
+1169,20076,PTC India
+1170,20099,Petronet LNG
+1171,20238,Grob Tea Co
+1172,20249,Mangalam Drugs
+1173,20287,Jindal Steel
+1174,20289,Simplex Projects
+1175,20422,Atlanta
+1176,20485,Blue Star Info.
+1177,20561,Transport Corp.
+1178,20581,Mindtree
+1179,20600,Glenmark Pharma.
+1180,20631,Dish TV
+1181,20648,Sasken Comm.Tec.
+1182,20650,3i Infotech
+1183,20659,Hathway Cable
+1184,20670,MPS Infotecnics
+1185,20703,Indraprastha Gas
+1186,20710,Intrasoft Tech.
+1187,20728,Mahindra Life.
+1188,20754,TajGVK Hotels
+1189,20790,Visu Intl.
+1190,20791,Entegra
+1191,20883,Cadila Health.
+1192,20915,Lycos Internet
+1193,20944,GE Power
+1194,20947,Dynacons Sys.
+1195,20956,Padmalaya Tele.
+1196,20975,Agnite Educ.
+1197,21112,Mukta Arts
+1198,21132,Orbit Corpn.
+1199,21187,Datamatics Glob.
+1200,21188,Divi's Lab.
+1201,21203,Zen Technologies
+1202,21214,Tata Tele. Mah.
+1203,21275,FCS Software
+1204,21281,Adani Ports
+1205,21300,Opto Circuits
+1206,21304,AXISCADES Engg.
+1207,21321,Balaji Telefilms
+1208,21325,Welspun Enterp
+1209,21331,Sterlite Tech.
+1210,21335,Cigniti Tech.
+1211,21338,Amar Remedies
+1212,21351,Prithvi Info.
+1213,21357,Next Media.
+1214,21953,Lanco Infratech
+1215,21960,Godrej Consumer
+1216,21999,Net 4 India
+1217,22005,ICICI Pru Life
+1218,22012,Goldst.Infratec.
+1219,22048,Royal Orch.Hotel
+1220,22118,Jagran Prakashan
+1221,22130,Dishman Pharma.
+1222,22137,Sadbhav Engg.
+1223,22202,Ponni Sug.Erode
+1224,22219,Meghmani Organ.
+1225,22265,I D F C
+1226,22361,Gulshan Polyols
+1227,22406,Compuage Info.
+1228,22472,Anandam Rubber
+1229,22535,BLS Internat.
+1230,22626,Inox Leisure
+1231,22648,Cera Sanitary.
+1232,22783,Inventure Grow.
+1233,22825,AIA Engg.
+1234,22835,Tantia Constr.
+1235,22868,Ramsarup Inds.
+1236,22883,Radaan Media.
+1237,22929,Triveni Turbine
+1238,22980,Orissa Minerals
+1239,23037,BAG Films
+1240,23039,GMR Infra.
+1241,23040,Idea Cellular
+1242,23050,Reliance Defence
+1243,23087,IOL Netcom
+1244,23165,Maxwell Inds.
+1245,23220,United Breweries
+1246,23244,ISMT
+1247,23296,IIFL Holdings
+1248,23313,S H Kelkar & Co.
+1249,23340,Rama Steel Tubes
+1250,23341,JBM Auto
+1251,23431,Transwar.Fin.
+1252,23448,Lux Industries
+1253,23450,20 Microns
+1254,23457,Advanta
+1255,23505,Bharati Defence
+1256,23562,Lumax Auto Tech.
+1257,23633,Hanung Toys
+1258,23653,Hi-Tech Pipes
+1259,23785,Nitin Spinners
+1260,23816,Precision Camshf
+1261,23818,PPAP Automotive
+1262,23869,STL Global
+1263,23875,Sh.Renuka Sugar
+1264,23920,Nectar Lifesci.
+1265,23921,Surya Pharma.
+1266,23959,Uttam Sug.Mills
+1267,24005,A B M Internatl.
+1268,24049,Fortis Health.
+1269,24057,Gitanjali Gems
+1270,24061,T.V. Today Netw.
+1271,24065,Guj.St.Petronet
+1272,24115,P B A Infra.
+1273,24194,D C Holdings
+1274,24258,North Eastn.Car.
+1275,24379,Sharon Bio-Med.
+1276,24392,Tanla Solutions
+1277,24440,Deep Industries
+1278,24585,Navin Fluo.Intl.
+1279,24603,8K Miles
+1280,24608,Varun Beverages
+1281,24610,Jindal Stain.
+1282,24619,Jai Balaji Inds.
+1283,24621,Lumax Auto.Sys.
+1284,24625,Apollo Sindoori
+1285,24642,Green Fire
+1286,24690,JSW Holdings
+1287,24705,Gammon Infra.
+1288,24762,Palred Technolog
+1289,24769,Muthoot Finance
+1290,24800,Parsvnath Devl.
+1291,24831,Crew B.O.S.Prod.
+1292,24833,MSP Steel & Pow.
+1293,24835,Indowind Energy
+1294,24836,Pochiraju Inds.
+1295,24837,Usher Agro
+1296,24853,Allsec Tech.
+1297,24882,Firstsour.Solu.
+1298,24915,Team Lease Serv.
+1299,24934,Ramkrishna Forg.
+1300,24936,Zylog Systems
+1301,24941,Jindal Photo
+1302,24946,McDowell Hold.
+1303,24949,H T Media
+1304,24951,UltraTech Cem.
+1305,24957,GP Petroleums
+1306,24978,NIIT Tech.
+1307,24988,Mcleod Russel
+1308,24993,Everest Kanto
+1309,25008,C C C L
+1310,25031,Bedmutha Indus.
+1311,25040,Fiem Inds.
+1312,25067,Repco Home Fin
+1313,25242,Xchanging Sol.
+1314,25263,S.A.L Steel
+1315,25267,Yes Bank
+1316,25386,Solar Inds.
+1317,25397,Unity Infra.
+1318,25457,Impex Ferro Tech
+1319,25459,Puravankar.Proj.
+1320,25502,Alkali Metals
+1321,25513,Ashoka Buildcon
+1322,25537,Ent.Network
+1323,25561,Intl Construct
+1324,25599,Omnitech Info.
+1325,25636,Uniply Inds.
+1326,25664,Accel Frontline
+1327,25746,Multi Comm. Exc.
+1328,25767,Syngene Intl.
+1329,25775,Bannari Amm Spg.
+1330,25777,Bombay Rayon
+1331,25785,Globus Spirits
+1332,25805,Ravikumar Distll
+1333,25807,SMS Pharma.
+1334,25812,Sh.Ganesh Forg.
+1335,25830,GTL Infra.
+1336,25991,Skipper
+1337,26063,Adhunik Indus.
+1338,26184,Kolte Patil Dev.
+1339,26339,Pincon Spirit
+1340,26416,GPT Infraproject
+1341,26453,Glodyne Techno.
+1342,26456,Hubtown
+1343,26503,Saksoft
+1344,26569,Provogue (India)
+1345,26579,Kaya Ltd
+1346,26604,Nandan Denim
+1347,26642,Rane (Madras)
+1348,26653,Vikash Metal
+1349,26729,Sejal Glass
+1350,26760,KM Sugar Mills
+1351,26766,Vivimed Labs.
+1352,26780,Indiabulls Vent.
+1353,26813,Rohit Ferro Tec.
+1354,26822,Rajvir Inds.
+1355,26828,Shivam Autotech
+1356,26837,Radha Madh.Corp.
+1357,26838,Godawari Power
+1358,26839,Educomp Sol.
+1359,26849,GOL Offshore
+1360,26853,Store One Retail
+1361,26856,Pratibha Inds.
+1362,26860,Bartronics India
+1363,26864,Sakuma Exports
+1364,26866,GVK Power Infra.
+1365,26867,Celebrity Fash.
+1366,26881,Varun Inds.
+1367,26912,Technocraf.Inds.
+1368,26923,Raj Oil Mills
+1369,27039,Gokul Refoils
+1370,27172,Sunil Hitech
+1371,27206,Rel. Comm.
+1372,27231,Malu Paper
+1373,27242,B.L.Kashyap
+1374,27243,Gallantt Metal
+1375,27244,Visa Steel
+1376,27257,Adhunik Metal
+1377,27264,Prime Focus
+1378,27265,Celestial Biolab
+1379,27266,Kewal Kir.Cloth.
+1380,27271,KF Airlines
+1381,27272,Supreme Infra.
+1382,27273,K E C Intl.
+1383,27297,Emk.Global Fin.
+1384,27299,Plethico Pharma.
+1385,27310,Glory Films
+1386,27313,Parabolic Drugs
+1387,27323,JSW Energy
+1388,27325,JHS Sven.Lab.
+1389,27333,Allcargo Logist.
+1390,27338,Action Const.Eq.
+1391,27340,HOV Services
+1392,27341,Volt.Transform.
+1393,27346,Renaissance Jew.
+1394,27347,Sh.Ashtavinayak
+1395,27350,GTN Textiles
+1396,27360,Global Vectra
+1397,27361,Broadcast Init.
+1398,27363,Evinix Indus.
+1399,27366,Cambridge Tech.
+1400,27367,Abhishek Corp.
+1401,27371,Everonn Educat.
+1402,27375,Sutlej Textiles
+1403,27387,L T Foods
+1404,27415,Ruchira Papers
+1405,27419,Texmaco Rail
+1406,27437,TGB Banquets
+1407,27441,Oriental Trimex
+1408,27443,Sobha
+1409,27482,TV18 Broadcast
+1410,27483,Sr.Rayala.Hypo
+1411,27485,Ess Dee Alumin.
+1412,27486,Mahindra CIE
+1413,27500,Hinduja Global
+1414,27501,Nissan Copper
+1415,27504,OCL Iron & Steel
+1416,27506,Hilton Met.Forg.
+1417,27528,Autoline Inds.
+1418,27530,AMD Industries
+1419,27531,Euro Ceramics
+1420,27538,Ankit Met.Power
+1421,27539,Cineline India
+1422,27558,MBL Infrast
+1423,27576,Nagreeka Cap.
+1424,27581,C & C Constrn.
+1425,27594,Astec Life
+1426,27603,Cairn India
+1427,27612,E-Land Apparel
+1428,27614,Pearl Global Ind
+1429,27654,MIC Electronics
+1430,27655,Astral Poly
+1431,27660,Brandhou.Retail
+1432,27662,SEL Mfg. Co
+1433,27675,SPARC
+1434,27678,Tarmat
+1435,27679,V2 Retail
+1436,27696,Kaushalya Infra.
+1437,27697,Netwrk.18 Media
+1438,27699,Indus Fila
+1439,27705,Zee Media
+1440,27706,Siti Networks
+1441,27707,Decolight Cera.
+1442,27710,Alpa Lab.
+1443,27715,Take Solutions
+1444,27738,Omaxe
+1445,27739,Barak Valley
+1446,27740,Asahi Songwon
+1447,27753,Time Technoplast
+1448,27754,Insecticid.India
+1449,27768,Nitin Fire Prot.
+1450,27793,Camlin Fine
+1451,27794,Refex Industries
+1452,27797,Nahar Capital
+1453,27798,Asian Granito
+1454,27800,Indbull.RealEst.
+1455,27828,H D I L
+1456,27896,Magnum Ventures
+1457,27966,GI Engg.Sol.
+1458,27985,GSS Info.
+1459,27987,Man Infra
+1460,27989,Rushil Decor
+1461,27995,Dhanus Tech.
+1462,28003,Kaveri Seed Co.
+1463,28009,K P R Mill Ltd
+1464,28011,Motil.Oswal.Fin.
+1465,28013,Maan Aluminium
+1466,28038,Koutons Retail
+1467,28041,Burnpur Cement
+1468,28049,Kiri Indus.
+1469,28069,WABCO India
+1470,28071,Sujana Towers
+1471,28074,Bajaj Auto
+1472,28075,Bajaj Finserv
+1473,28145,Metkore Alloys
+1474,28150,Religare Enterp.
+1475,28183,Bang Overseas
+1476,28229,Edelweiss.Fin.
+1477,28239,Somi Conv.Belt.
+1478,28241,Sita Shree Food
+1479,28243,Mold-Tek Pack.
+1480,28245,Tecpro Systems
+1481,28257,REI Six Ten
+1482,28267,Tulsi Extrusions
+1483,28290,PTC India Fin
+1484,28292,Cords Cable
+1485,28293,eClerx Services
+1486,28294,Brigade Enterpr.
+1487,28300,J Kumar Infra
+1488,28301,OnMobile Global
+1489,28304,MVL
+1490,28331,Tarapur Trans
+1491,28334,KNR Construct.
+1492,28340,T R I L
+1493,28363,GREENETH.RES&PRO
+1494,28364,Capital First
+1495,28365,IRB Infra.Devl.
+1496,28369,Shriram EPC
+1497,28424,First Winner
+1498,28432,Teledata Tech
+1499,28434,Archidply Inds.
+1500,28441,Vascon Engineers
+1501,28573,Resurgere Mines
+1502,28574,Mandhana Indus
+1503,28589,D B Corp
+1504,28591,Ramky Infra
+1505,28611,Bafna Pharma.
+1506,28612,Birla Cotsyn
+1507,28627,LGB Forge
+1508,28666,Euro Multivision
+1509,28668,Nu Tek India
+1510,28695,PNC Infratech
+1511,28894,Nitesh Estates
+1512,28967,Lotus Eye Care
+1513,29112,Microsec Fin
+1514,29175,RPG LifeScience.
+1515,29187,KSK Energy Ven.
+1516,29300,Piraml.Phyto.
+1517,29301,Rane Engine Val.
+1518,29302,Rane Brake Lin.
+1519,29303,Sicagen India
+1520,29335,Future Consumer
+1521,29368,ARSS Infra
+1522,29472,Fineotex Chem
+1523,29545,A2Z Infra Engg.
+1524,29548,Innoventive Ind.
+1525,29574,Prakash Steelage
+1526,29583,Bharat Financial
+1527,29706,Gyscoal Alloys
+1528,29776,VRL Logistics
+1529,29955,Infinite Comp
+1530,30017,Edserv Softsys.
+1531,30089,C Mahendra Exp
+1532,30141,Excel Infoways
+1533,30163,Jindal Cotex Ltd
+1534,30251,Welspun Investme
+1535,30252,Syncom Health
+1536,30297,BS
+1537,30326,Arrow Textiles
+1538,30337,Sreeleathers
+1539,30992,Texmo Pipes
+1540,31509,Pradip Overseas
+1541,31785,D-Link India
+1542,32039,Electrosteel St.
+1543,32050,Farmax India
+1544,32414,Asian Hotels (E)
+1545,32948,Kesar Terminals
+1546,33159,Interglobe Aviat
+1547,33402,Dr.Datsons Labs
+1548,33406,Speciality Rest.
+1549,33432,SQS India BFSI
+1550,33444,Kirloskar Oil
+1551,33583,PC Jeweller
+1552,33638,Prabhat Dairy
+1553,33816,Flexituff Intl.
+1554,34020,MEP Infrast.
+1555,34142,GNA Axles
+1556,34162,V-Mart Retail
+1557,34263,IL&FS Transport
+1558,34404,S P Apparels
+1559,34493,Shree Gan.Jew.
+1560,34518,Emami Infra.
+1561,34663,Jaypee Infratec.
+1562,34673,TD Power Sys.
+1563,34697,Equitas Holdings
+1564,34741,Sanghvi Forg.
+1565,34787,Power Mech Proj.
+1566,34793,Sh.Pushkar Chem.
+1567,34819,Rattanindia Pow.
+1568,34901,Ujjivan Fin.Ser.
+1569,34917,Ducon Tech
+1570,34920,Thangamayil Jew.
+1571,35066,Den Networks
+1572,35142,Aqua Logistics
+1573,35224,BF Investment
+1574,35410,Sharda Cropchem
+1575,35595,Emmbi Industries
+1576,35607,Gravita India
+1577,35611,DQ Entertain.
+1578,35715,Cantabil Retail
+1579,35717,D B Realty
+1580,35743,Goenka Diamond
+1581,35794,Omkar Spl.Chem.
+1582,35844,CIL Nova Petro.
+1583,35848,Surana Solar
+1584,35919,Indosolar
+1585,36016,Techno Elec.
+1586,36017,Kalyani Invest.
+1587,36019,Va Tech Wabag
+1588,36162,RPP Infra Proj.
+1589,36229,Indiabulls Hous.
+1590,36662,Dilip Buildcon
+1591,37265,Dhunseri Invest.
+1592,37382,Talwal.Better
+1593,37447,Shekhawati Poly.
+1594,37500,Gallantt Ispat
+1595,37831,Shri Aster Silic
+1596,37832,Eros Intl.Media
+1597,37833,Zee Learn
+1598,38025,Oberoi Realty
+1599,38133,Bil Energy Sys.
+1600,38208,Shilpi Cable
+1601,38220,PG Electro.
+1602,38364,ARCL Organics
+1603,38564,Indbul.Wholesale
+1604,38565,Career Point
+1605,38700,Indian Terrain
+1606,38716,Bajaj Corp
+1607,38761,SRS
+1608,38892,AcroPetal Tech.
+1609,38923,TCI Developers
+1610,38925,Dalmia Bhar.
+1611,39082,Karma Ener.
+1612,39220,Commercial Eng.
+1613,39716,Orient Green
+1614,40028,Sudar Industries
+1615,40111,Asian Hotels (W)
+1616,40258,Tara Jewels
+1617,40279,Bharti Infra.
+1618,40294,Alembic Pharma
+1619,40342,Jubilant Inds.
+1620,40370,Pennar Engg.Bld.
+1621,40401,Elgi Rubb.
+1622,40412,Vardhman Spl.
+1623,40437,Servalaksh.Paper
+1624,40438,Furure Market
+1625,40449,Para. Print.
+1626,40450,Timbor Home
+1627,40457,Endurance Tech.
+1628,40458,Vaswani Inds.
+1629,40460,Tijaria Poly.
+1630,40479,Bharatiya Glob.
+1631,40505,Brooks Lab.
+1632,40506,Kridhan Infra
+1633,40517,Onelife Capital
+1634,40521,Thomas Scott
+1635,40530,Taksheel Sol.
+1636,40552,Nagarjuna Fert.
+1637,40553,Nagar.Oil Refin.
+1638,40564,Ujaas Energy
+1639,40566,Sanco Industries
+1640,40647,Tree House Edu.
+1641,40738,Essar Shipping
+1642,40749,Orient Refrac.
+1643,40790,Arvind Infra.
+1644,40912,Aditya Bir. Fas.
+1645,40946,Star Ferro Cem.
+1646,41136,Prakash Constro.
+1647,41147,L&T Fin.Holdings
+1648,41218,Schneider Elect.
+1649,41238,Indo Thai Sec.
+1650,41261,Dr Lal Pathlabs
+1651,41290,M B Agro Prod.
+1652,41312,MT Educare
+1653,41315,Weizmann For.
+1654,41368,VKS Projects
+1655,41369,Just Dial
+1656,41398,Shemaroo Entert.
+1657,41403,TV Vision
+1658,41473,Hexa Tradex
+1659,41487,RattanIndia Infr
+1660,41492,Prozone Intu
+1661,41535,S E Power
+1662,41741,Integra Garments
+1663,41859,NRB Indl Bearing
+1664,42049,Sadbhav Infra.
+1665,42197,Thejo Engg.
+1666,42260,Advance Meter.
+1667,42328,Zuari Agro Chem.
+1668,42518,Thyrocare Tech.
+1669,42523,Health.Global
+1670,42606,Northgate Com
+1671,42820,Veto Switchgears
+1672,43069,PDS Multi.
+1673,43083,Genus Paper & Bo
+1674,43230,Opal Luxury
+1675,43309,Snowman Logistic
+1676,43397,Ashapura Inti.
+1677,43583,Wonderla Holiday
+1678,43686,Future Lifestyle
+1679,43814,Greenlam Industr
+1680,43822,Mitcon Consult.
+1681,43863,Jindal Poly Inve
+1682,43934,Gujarat Gas
+1683,43936,India Info.Hou.
+1684,43989,Inox Wind
+1685,44041,Nath Bio-Genes
+1686,44042,Agri-Tech India
+1687,44085,Dhunseri Tea
+1688,44398,Quess Corp
+1689,44404,HPL Electric
+1690,44814,L&T Technology
+1691,45107,Narayana Hrudaya
+1692,45144,Parag Milk Foods
+1693,45748,Navkar Corporat.
+1694,45765,Gulf Oil Lubric.
+1695,45793,BDR Buildcon
+1696,45914,Majesco
+1697,45921,Momai Apparels
+1698,52315,Neopolitan Pizza
+1699,54759,IDFC Bank
+1700,54769,Intellect Design
+1701,54778,Coffee Day Enter
+1702,54840,MASK INVESTMENTS
+1703,64824,Monte Carlo Fas.
+1704,64845,Manaksia Alumi.
+1705,64846,Manaksia Steels
+1706,64847,Manaksia Coated
+1707,64848,Manaksia Indus.
+1708,64887,Manpasand Bever.
+1709,65118,UFO Moviez
+1710,65191,Jindal Stain .Hi
+1711,65297,HEC Infra Proj.
+1712,65524,Pudumjee Paper
+1713,65688,Adlabs Entert.
+1714,65733,Crompton Gr. Con
+1715,65804,Balkrishna Paper
+1716,65841,Infibeam Incorp.
+1717,65868,Shaival Reality
+1718,65878,InfoBeans Tech.
+1719,65921,Shyam Century
+1720,66041,Elite Conductors
+1721,66042,Future Retail
+1722,66221,SAB Events
+1723,66273,Adani Transmissi
+1724,66318,BIGBLOC Const.
+1725,66415,Sakar Healthcare
+1726,66472,Pneumatic Holdin
+1727,66539,Emkay Taps & Cut
+1728,66574,Quick Heal
+1729,66592,Ahimsa Indust.
+1730,66673,Husys Consulting
+1731,66762,Perfect Infraeng
+1732,66768,Bharat Wire
+1733,67056,Lloyds Steels
+1734,67280,Fourth Dimension
+1735,67285,Jet Knitwears
+1736,67292,Wealth First Por
+1737,67573,Max India
+1738,67574,Max Ventures
+1739,67804,Gokul Agro
+1740,67942,Digjam
+1741,68137,Sagardeep Alloys
+1742,68227,United Polyfab
+1743,68384,KKV Agro Powers
+1744,68704,Crown Lifters
+1745,68728,AVSL Industries
+1746,68790,Gretex Indust.
+1747,68799,Nandani Creation
+1748,68803,Aurangabad Dist.
+1749,68804,Pansari Develop.
+1750,68805,Dhanuka Realty
+1751,68806,Globe Intl. Car.
+1752,68825,Art Nirman Ltd
+1753,68973,Agro Phos

@@ -27,6 +27,7 @@ class Industry(Base):
     __tablename__ = 'industry'
     code = Column(String(80), primary_key=True)
     name = Column(String(80), nullable=False, unique=True, index=True)
+    companies = relationship("Company", back_populates = "industry")
     
     def __init__(self,code,name):
         self.code = code
@@ -40,6 +41,7 @@ class Sector(Base):
     __tablename__ = 'sector'
     code = Column(String(80), primary_key=True)
     name = Column(String(80), nullable=False, unique=True, index=True)
+    companies = relationship("Company", back_populates = "sector")
     
     def __init__(self,code,name):
         self.code = code
@@ -53,6 +55,11 @@ class Company(Base):
     __tablename__ = 'company'
     code = Column(String(40), primary_key=True)
     name = Column(String(40), nullable=False, unique=True, index=True)
+    industry_name = Column(String(40), ForeignKey('industry.name'))
+    sector_name = Column(String(40), ForeignKey('sector.name'))
+    industry = relationship("Industry", back_populates = "Companies")
+    sector = relationship("Sector", back_populates = "Companies")
+    
     
     def __init__(self,code,name):
         self.code = code
